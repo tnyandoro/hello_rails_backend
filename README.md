@@ -16,7 +16,8 @@
 
 ## Live Demo
 
-[Live Demo Link to the API](https://rails-tendai-backend.herokuapp.com/api/v1/messages)
+[Live Demo Link to the React project](https://gracious-newton-0ccec1.netlify.app/)
+[Live Demo Link to the Rails API](https://rails-tendai-backend.herokuapp.com/api/v1/messages)
 
 
 
@@ -26,6 +27,20 @@ To get a local copy up and running follow these simple example steps.
 1. Open Terminal.
 2. Navigate to your desired location to download the contents of this repository.
 3. Clone this repository:
+      ```
+      git clone
+      ```
+4. Navigate to the directory where you cloned the repository.
+5. Run the following command to install the dependencies:
+      ```
+      bundle install
+      ```
+      Run rails db:create to create the database.
+6. Run rails db:migrate to create the tables.
+7. Run rails server to start the server.
+8. Run rails s to start the server.
+9. Run rails c to start the rails console.
+
 
 
 To get a local copy up and running follow these simple example steps.
@@ -60,7 +75,6 @@ Setup database with:
 - Open a browser and visit `127.0.0.1:3000`
 - Sign up and a create transactions with or without a group!
 
-## Testing
 
 
 
