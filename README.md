@@ -17,6 +17,7 @@
 ## Live Demo
 
 [Live Demo Link to the React project](https://gracious-newton-0ccec1.netlify.app/)
+[Github Link to the React project](https://github.com/tnyandoro/hello-react-front-end/)
 [Live Demo Link to the Rails API](https://rails-tendai-backend.herokuapp.com/api/v1/messages)
 
 
@@ -24,11 +25,12 @@
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
+Special notification kindly change ruby version to 3.0.2 which i used, rubocp does not work with 3.0.2 yet.git 
 1. Open Terminal.
 2. Navigate to your desired location to download the contents of this repository.
 3. Clone this repository:
       ```
-      git clone
+      git clone (https://github.com/tnyandoro/hello-rails-backend.git)
       ```
 4. Navigate to the directory where you cloned the repository.
 5. Run the following command to install the dependencies:
